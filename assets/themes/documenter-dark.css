@@ -8725,7 +8725,6 @@ kbd.search-modal-key-hints:hover, kbd.search-modal-key-hints:focus {
 }
 
 .search-result-link:hover, .search-result-link:focus {
-  scale: 1.02;
   background-color: rgba(0, 0, 0, 0.05);
 }
 
@@ -8763,6 +8762,7 @@ kbd.search-modal-key-hints:hover, kbd.search-modal-key-hints:focus {
 }
 
 #search-modal .modal-card-body::-webkit-scrollbar, #search-modal .filter-tabs::-webkit-scrollbar {
+  height: 6px;
   width: 6px;
   background-color: transparent;
 }
