@@ -8725,7 +8725,7 @@ kbd.search-modal-key-hints:hover, kbd.search-modal-key-hints:focus {
 }
 
 .search-result-link:hover, .search-result-link:focus {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 128, 128, 0.1);
 }
 
 .search-result-link .property-search-result-badge {
